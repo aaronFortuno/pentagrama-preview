@@ -1,7 +1,7 @@
 {
   "generator": "pentagrama-preview",
-  "version": "2.3.2",
+  "version": "2.3.3",
   "source": "https://github.com/aaronFortuno/pentagrama.git",
   "branch": "codex/v2-modular-engine",
-  "sourceCommit": "a7f8babab56a965b80eca029ebcf9c63c18e8a15"
+  "sourceCommit": "f463e167f559470a3a8e93c38bdbcf4a8b838c2c"
 }
