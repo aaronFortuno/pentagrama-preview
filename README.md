@@ -1,6 +1,6 @@
 # Pentagrama · experimental preview
 
-Version: 2.8.1
+Version: 2.8.2
 
 Published artifact from [the v2 source branch](https://github.com/aaronFortuno/pentagrama/tree/codex/v2-modular-engine). Development, issues and contributions belong in the source repository.
 
@@ -8,4 +8,4 @@ Production remains at https://pentagrama.page/. This preview has no custom domai
 
 Licensed under [GNU GPL v3](LICENSE). Third-party notices are preserved in vendor/.
 
-Source revision: [1a9f7cf](https://github.com/aaronFortuno/pentagrama/commit/1a9f7cf78f13db7ae25a5697f73a3121064a48bb).
+Source revision: [d4018af](https://github.com/aaronFortuno/pentagrama/commit/d4018af24b80ca2369d405fe50932b28a1f5da76).
